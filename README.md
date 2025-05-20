@@ -43,7 +43,13 @@ cd expense-tracker
 
 ## Screenshots
 
-### Add Icome, Expense, Monthly Summary
-![Add Icome, Expense, Monthly Summary](Add Income,Add Expense, Show month summary.png)
+### Add Income, Expense, Monthly Summary
+![Add Icome, Expense, Monthly Summary](transactions.png)
 
+### Save Transactions as File in data folder
+![Save as file](Save_as_file.png)
+
+### Load Transactions from File located in data folder
+![Load tracker1.txt file](load_tracker1_file.png)
+![tracker1.txt file](tracker1_txt_file.png)
 
