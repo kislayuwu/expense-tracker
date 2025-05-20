@@ -32,15 +32,6 @@ A console-based Expense Tracker application built using Java following SOLID pri
 - File I/O
 
 ---
-
-##  How to Run
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/kislayuwu/expense-tracker.git
-cd expense-tracker
-
 ## Screenshots
 
 ### Add Income, Expense, Monthly Summary
@@ -53,3 +44,11 @@ cd expense-tracker
 ![Load tracker1.txt file](load_tracker1_file.png)
 ![tracker1.txt file](tracker1_txt_file.png)
 
+---
+##  How to Run
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/kislayuwu/expense-tracker.git
+cd expense-tracker
