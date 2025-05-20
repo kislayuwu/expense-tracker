@@ -40,3 +40,10 @@ A console-based Expense Tracker application built using Java following SOLID pri
 ```bash
 git clone https://github.com/kislayuwu/expense-tracker.git
 cd expense-tracker
+
+## Screenshots
+
+### Add Icome, Expense, Monthly Summary
+![Add Icome, Expense, Monthly Summary](Add Income,Add Expense, Show month summary.png)
+
+
